@@ -1,0 +1,6 @@
+var_name,var_dtype,is_tobe_bin,is_candidate,is_modelfeature
+ID,object,0,0,0
+msk_mth_since_last_limit_review,float64,1,1,1
+msk_age,float64,1,1,1
+msk_bank_tenor,float64,1,1,1
+target,int64,0,0,0
